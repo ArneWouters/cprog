@@ -35,7 +35,7 @@ int main() {
 
   int tc; tc = 1;
   while (tc--) {
-    // cout << "Case #" << t << ": " << endl;
+    // cout << "Case #" << tc << ": " << endl;
     solve();
   }
 
